@@ -1,5 +1,5 @@
 ## Hi 👋
 
-안녕하세요.대구과학고등학교 38기 김동환입니다. 
+Hi there! 👋 I'm DSHS_38 DongHwan Kim. 
 
-고등학교 입학 전 정보 쪽으로 미쳐있던(?) 어떤 친구의 추천으로 만들게 되었던 계정입니다. ^^
+This account was created by my friend who was crazy about informatics. 
